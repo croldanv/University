@@ -1,0 +1,4 @@
+#project exclude paths
+/out/
+/.idea/
+FinalProjectJavaBasics.iml
